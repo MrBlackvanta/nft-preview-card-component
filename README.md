@@ -1,38 +1,21 @@
-# Frontend Mentor - NFT preview card component
+# NFT preview card component
 
-![Design preview for the NFT preview card component coding challenge](desktop-preview.jpg)
+My solution to the [NFT preview card component](https://www.frontendmentor.io/challenges/nft-preview-card-component-SbdUL_w0U) challenge on Frontend Mentor.
 
-This is a solution to the [NFT preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/nft-preview-card-component-SbdUL_w0U). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
+![](./screenshot.webp)
 
-## Table of contents
+- Live: https://nft-preview-card-component.abdelrhman-ahmed8881.workers.dev
+- Code: https://github.com/MrBlackvanta/nft-preview-card-component
 
-- [Overview](#overview)
-  - [The challenge](#the-challenge)
-  - [Links](#links)
-- [My process](#my-process)
-  - [Built with](#built-with)
-- [Author](#author)
+## Built with
 
-## Overview
-
-### The challenge
-
-Users should be able to:
-
-- View the optimal layout depending on their device's screen size
-- See hover states for interactive elements
-
-### Links
-
-- Solution URL: [Github](https://github.com/MrBlackvanta/nft-preview-card-component)
-- Live Site URL: [Live](https://nft-card-vanta.netlify.app/)
-
-### Built with
-
-- [React](https://reactjs.org/) - JS library
-- [Sass Modules](https://sass-lang.com/) - For styles
+- Next.js
+- React
+- TypeScript
+- Tailwind CSS
 
 ## Author
 
-- Frontend Mentor - [@MrBlackvanta](https://www.frontendmentor.io/profile/MrBlackvanta)
-- GitHub - [@MrBlackvanta](https://github.com/MrBlackvanta)
+- [LinkedIn](https://www.linkedin.com/in/abdelrhman-vanta/)
+- [UpWork](https://www.upwork.com/freelancers/mrblackvanta)
+- [Frontend Mentor](https://www.frontendmentor.io/profile/MrBlackvanta)
