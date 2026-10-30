@@ -47,3 +47,7 @@
     @apply cursor-pointer;
   }
 }
+
+@utility v-link {
+  @apply outline-accent ease-out hover:text-accent focus-visible:outline-2 focus-visible:outline-offset-4 motion-safe:transition-[color] motion-safe:duration-150;
+}
